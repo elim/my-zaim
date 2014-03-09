@@ -1,0 +1,8 @@
+#!/usr/bin/ruby
+require './lib/my-zaim'
+
+mz = MyZaim.new
+
+# Local Variables:
+# mode: ruby
+# End:

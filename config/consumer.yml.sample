@@ -1,0 +1,6 @@
+---
+#
+# First, create your application at https://dev.zaim.net
+#
+:consumer_key:    <put your consumer key>
+:consumer_secret: <put your consumer secret>
